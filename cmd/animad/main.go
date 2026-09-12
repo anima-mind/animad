@@ -1,5 +1,5 @@
 // animad — Anima server runtime (daemon / REST API).
-// Blueprint: https://github.com/joshuamoreno1/anima (spec doc 03, perfil server §A.5).
+// Blueprint: https://github.com/anima-mind/anima (spec doc 03, perfil server §A.5).
 //
 // Estado: pre-implementación. Este binario es el esqueleto del daemon;
 // el plan de implementación del perfil server se escribirá en el blueprint
@@ -23,6 +23,6 @@ func main() {
 		return
 	}
 
-	fmt.Fprintln(os.Stderr, "animad: daemon not implemented yet — blueprint at https://github.com/joshuamoreno1/anima")
+	fmt.Fprintln(os.Stderr, "animad: daemon not implemented yet — blueprint at https://github.com/anima-mind/anima")
 	os.Exit(1)
 }
