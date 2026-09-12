@@ -1,3 +1,3 @@
-module github.com/joshuamoreno1/animad
+module github.com/anima-mind/animad
 
 go 1.26
