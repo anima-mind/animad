@@ -3,7 +3,7 @@
 **Perfil server del harness [Anima](https://github.com/joshuamoreno1/anima)** — el runtime Go de la misma mente: daemon y/o servicio REST. Brain compartido, consolidación continua, capa intersubjetiva (spec §B.9). El Otro = la organización/el operador.
 
 > Una mente = LLM (dotación) + harness (desarrollo) + historia (experiencia).
-> Un blueprint, N cuerpos: [`anima-ios`](https://github.com/joshuamoreno1/anima-ios) es el cuerpo edge; `animad` es el cuerpo server.
+> Un blueprint, N cuerpos: [`anima-ios`](https://github.com/anima-mind/anima-ios) es el cuerpo edge; `animad` es el cuerpo server.
 
 ## Estado
 
