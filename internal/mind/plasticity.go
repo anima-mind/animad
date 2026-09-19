@@ -1,5 +1,5 @@
 // Package mind implementa los invariantes cross-runtime del blueprint Anima
-// (https://github.com/joshuamoreno1/anima — spec doc 03, matriz C.1).
+// (https://github.com/anima-mind/anima — spec doc 03, matriz C.1).
 package mind
 
 import "math"

@@ -1,9 +1,9 @@
 # animad
 
-**Perfil server del harness [Anima](https://github.com/joshuamoreno1/anima)** — el runtime Go de la misma mente: daemon y/o servicio REST. Brain compartido, consolidación continua, capa intersubjetiva (spec §B.9). El Otro = la organización/el operador.
+**Perfil server del harness [Anima](https://github.com/anima-mind/anima)** — el runtime Go de la misma mente: daemon y/o servicio REST. Brain compartido, consolidación continua, capa intersubjetiva (spec §B.9). El Otro = la organización/el operador.
 
 > Una mente = LLM (dotación) + harness (desarrollo) + historia (experiencia).
-> Un blueprint, N cuerpos: [`anima-ios`](https://github.com/joshuamoreno1/anima-ios) es el cuerpo edge; `animad` es el cuerpo server.
+> Un blueprint, N cuerpos: [`anima-ios`](https://github.com/anima-mind/anima-ios) es el cuerpo edge; `animad` es el cuerpo server.
 
 ## Estado
 
@@ -16,7 +16,7 @@ go build ./... && go test -race ./...
 go run ./cmd/animad -version
 ```
 
-- Módulo: `github.com/joshuamoreno1/animad` · Go 1.26.
+- Módulo: `github.com/anima-mind/animad` · Go 1.26.
 - CI: build + vet + test -race + gofmt en cada push/PR.
 - CD (futuro): goreleaser en tags para binarios multi-plataforma del daemon.
 
