@@ -22,4 +22,4 @@ go run ./cmd/animad -version
 
 ## Licencia
 
-MIT
+[Apache 2.0](LICENSE) — ver [NOTICE](NOTICE). **Anima** y su logo son marcas de Joshua Moreno; la licencia no otorga derechos sobre ellas.
